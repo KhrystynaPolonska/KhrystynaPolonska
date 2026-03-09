@@ -18,9 +18,3 @@ HTML | CSS | JavaScript | TypeScript | React | Next.js
 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
-📫 How to reach me:  
-
-[LinkedIn](https://www.linkedin.com/in/yevheniia-serhieieva-ab200b383/) | [Telegram](https://t.me/Yevheniia_Serhieieva) | [Email](mailto:y.o.serhieieva@gmail.com)
-
-
