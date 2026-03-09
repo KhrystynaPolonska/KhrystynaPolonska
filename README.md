@@ -1,13 +1,26 @@
-My name is Khrystyna 
-=====================================  
-I'm Junior Fullstack Developer | 🎓 GoIT 
------------------------------------------
+Hi there, my name is Khrystyna 
+I'm Junior Frontend Developer
 
+My stack and tools :
+
+HTML | CSS | JavaScript | TypeScript | React | Next.js 
+
+💻Featured Projects 
+
+- [NoteHub](https://08-zustand-black-seven.vercel.app) -NoteHub is a simple app for creating and managing personal notes. It helps you keep your ideas and tasks organized in one place. You can quickly add, edit, and view your notes anytime (individual project).
+- [ArtistsHub](https://zviacheslavv.github.io/developers-orchestra-project/) - ArtistsHub is a web app for discovering music artists. You can search, filter, and learn more about your favorite musicians (team project, developer).
+  
+- [PictureHub](https://khrystynapolonska.github.io/goit-js-hw-12/) - PictureHub is an application for easy image search by keyword. It allows you to quickly find popular photos (individual project).
+  
+- [YogaBloom](https://ihor-vasylenko.github.io/webforge/) - This website presents different yoga programs for people who want to improve their health and well-being. Users can explore classes and learn more about yoga practice (team project, developer).
 
   
- My stack and tools :
-  
-  <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-  </p> 
+🗣️ Languages
+
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+📫 How to reach me:  
+
+[LinkedIn](https://www.linkedin.com/in/yevheniia-serhieieva-ab200b383/) | [Telegram](https://t.me/Yevheniia_Serhieieva) | [Email](mailto:y.o.serhieieva@gmail.com)
 
 
